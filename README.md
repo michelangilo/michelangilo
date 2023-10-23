@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shivansh Tandon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![logo](https://github.com/michelangilo/michelangilo/blob/main/Your%20paragraph%20text%20(1).png)
+<h1 align="center">Hello there, I'm Shivansh Tandon✨</h1>
+<h3 align="center">A passionate Compuert Science student from India</h3>
 
 <img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
