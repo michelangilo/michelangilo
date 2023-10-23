@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **shivanshtandon2002@gmail.com**
 
-- ⚡ Fun fact **I'm 6"3' with long lack hair and look like Jesus**
+- ⚡ Fun fact **I'm 6"3' with long and curly black hair and look like Jesus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
