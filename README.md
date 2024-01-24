@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelangilo&label=Profile%20views&color=0e75b6&style=flat" alt="michelangilo" /> </p>
 
-- 🌱 I’m currently learning **Database Management**
+- 🌱 I’m currently learning **AR and APIs**
 
 - 🤝 I’m looking for help with **Competitive Coding**
 
