@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelangilo&label=Profile%20views&color=0e75b6&style=flat" alt="michelangilo" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michelangilo&label=Profile%20views&color=0e75b6&style=flat" alt="michelangilo" /> </p>
-
 - 🔭 I’m currently studying **Computer Science Engineering**
 
 - 🌱 I’m currently learning **API Integration and Augmented Reality**
