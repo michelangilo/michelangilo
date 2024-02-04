@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **Computer Science Engineering**
 
-- 🌱 I’m currently learning **API Integration and Augmented Reality**
+- 🌱 I’m currently learning **API Integration and Metaverse**
 
 - 💬 Ask me about **Competitive Coding, AR/VR, Websites, DBMS**
 
