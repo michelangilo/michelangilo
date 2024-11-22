@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Tandon✨</h1>
 <h3 align="center">Be an Inspirer</h3>
 
-<img align="right" alt="gif" width="400" src="[https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhomer-simpson-any-key-gifs&psig=AOvVaw0yQb2i4oZaWqsahafTrLMs&ust=1732376849702000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCShuik8IkDFQAAAAAdAAAAABAs)">
+<img align="right" alt="gif" width="400" src="[[https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhomer-simpson-any-key-gifs&psig=AOvVaw0yQb2i4oZaWqsahafTrLMs&ust=1732376849702000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCShuik8IkDFQAAAAAdAAAAABAs)](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/529be7114445403.603bc566b82d6.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelangilo&label=Profile%20views&color=0e75b6&style=flat" alt="michelangilo" /> </p>
 
