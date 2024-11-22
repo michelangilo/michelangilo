@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shivansh Tandon✨</h1>
 <h3 align="center">Be an Inspirer.</h3>
 
-<img align="right" alt="gif" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d0cbf133927413.61ca3c69b918e.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d0cbf133927413.61ca3c69b918e.gif)">
+<img align="right" alt="gif" width="400" src="![image](https://github.com/user-attachments/assets/e4757b05-ae4b-4d5e-b854-cc915bfb8ce3)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelangilo&label=Profile%20views&color=0e75b6&style=flat" alt="michelangilo" /> </p>
 
